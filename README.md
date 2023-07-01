@@ -1,4 +1,4 @@
-                                      # 💫 About Me:
+# 💫 About Me:
 📖 Study At Telkom University<br>🌱 I’m currently learning about Software Development<br>⚡ Burger Universe Project
 
 
