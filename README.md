@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # 💫 About Me:
 📖 Study At Telkom University<br>🌱 I’m currently learning about Software Development<br>⚡ Burger Universe Project
 
