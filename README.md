@@ -44,7 +44,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Autofat&border_radius=25)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Autofat&border_radius=25)](https://git.io/streak-stats)
 </div>
 
 
