@@ -19,7 +19,7 @@
   <img src="https://visitcount.itsvg.in/api?id=Autofat&icon=8&color=0" alt=""/>
   <br>
   <h1>
-    Hi There 🖐️ !
+    HI THERE
   </h1>
 </div>
 
