@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <br>
-  <a href="www.linkedin.com/in/borneowibowo">
+  <a href="https://www.linkedin.com/in/borneowibowo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/borneowibowo/">
